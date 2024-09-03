@@ -11,4 +11,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i do smile while countaring errors 
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,javascript,figma,nodejs,html,css,mongodb,vite,github,php,ai,xd,postman,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,figma,nodejs,html,css,mongodb,vite,github,php,ai,xd,postman,react&theme=light)](https://skillicons.dev)
